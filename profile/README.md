@@ -7,3 +7,19 @@ Nosso foco está em garantir que o RecomendeMe permaneça uma referência na cur
 
 Estamos constantemente em busca de soluções tecnológicas modernas e boas práticas de desenvolvimento para manter a plataforma em constante crescimento e aperfeiçoamento.
 
+Servidor Cronos SSH - Hostinger:
+
+IP: 89.116.115.12
+Porta: 65002
+Senha: #Imac88246948
+
+Comando:
+ssh -p 65002 u109234842@89.116.115.12
+
+Servidor Hades Mysql - Hostinger:
+
+Banco de Dados: u109234842_teste
+
+Usuário: u109234842_lucas	
+
+Senha: #Imac88246948
